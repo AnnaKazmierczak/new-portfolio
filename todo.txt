@@ -1,0 +1,14 @@
+PORTFOLIO SITE
+
+to do:
+- alt w image
+- animation, scrollspy li navBar
+- reczny podpis / jak - do PS?
+- px na em
+- & w SASS
+- dla niewidomych
+- webkit
+- normalize
+- minifikacje JS
+- github
+- 
