@@ -70,7 +70,7 @@ section {
 
 /* NAVIGATION, including mobile menu*/
 .navBar {
-	background-color: $color2;
+	background-color: red;
 	position: fixed;
 	min-width: 100%;
 	max-width: 100%;
@@ -291,6 +291,7 @@ padding-top: 40px;
 /*SKILLS section*/
 
 .skills {
+
 	background-color: black;
 	color: white;
 	h2 {
@@ -303,6 +304,9 @@ padding-top: 40px;
 	}
 	&.level {
 		padding: 3em;
+				
+		
+
 //		&:first-child {
 //			margin-top: 2em;
 //		}
@@ -319,6 +323,13 @@ padding-top: 40px;
 		-ms-flex-pack: distribute;
 //		max-width: 650px;
 		margin: 0 auto;
+		
+		
+	
+		
+		
+		
+		
 		.logo {
 			width: 100px;
 			height: 100px;
@@ -561,7 +572,7 @@ padding-top: 40px;
 /*FOOTER*/
 footer {
 	background-color: $color2;
-	min-width: 100vh;
+//	min-width: 100vh;
 //	max-width: 1400px;
 	height: 120px;
 	color: white;

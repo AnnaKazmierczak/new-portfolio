@@ -27,7 +27,7 @@ section {
 
 /* NAVIGATION, including mobile menu*/
 .navBar {
-  background-color: #000000;
+  background-color: red;
   position: fixed;
   min-width: 100%;
   max-width: 100%;
@@ -349,7 +349,6 @@ header {
 /*FOOTER*/
 footer {
   background-color: #000000;
-  min-width: 100vh;
   height: 120px;
   color: white; }
   footer .footer {
